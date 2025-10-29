@@ -1,0 +1,4 @@
+"# Nom du fichier : jira_2tickets_atelier.csv"
+"ID Ticket,Date ouverture,Demandeur / Service,Summary,Description,Gravité,Diagnostic,Action corrective,Durée résolution,Technicien,Statut,Commentaires utilisateur,Satisfaction"
+"IT-001,29/10/2025,Paul Martin / Comptabilité,Impossible de se connecter à Outlook,""L’utilisateur ne peut pas ouvrir Outlook, message \""mot de passe incorrect\""."",Majeure,""Mot de passe expiré / non synchronisé"",""Réinitialisation du mot de passe et test de connexion"",20 min,Sophie Dupont,Clos,""Tout fonctionne, merci"",5"
+"IT-002,29/10/2025,Paul Martin / Comptabilité,Fichier partagé inaccessible,""L’utilisateur ne peut pas accéder au fichier partagé \""Compta2025.xlsx\""."",Critique,""Droits d’accès insuffisants"",""Ajout de l’utilisateur au groupe ayant accès au dossier"",35 min,Sophie Dupont,Clos,""Accès rétabli"",5"
