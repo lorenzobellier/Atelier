@@ -54,7 +54,7 @@ Atelier/
 | Date d’achat |
 | Fin de garantie |
 | Logiciels installés |
-| Licence (Oui/Non) |
+| Licence |
 | Fournisseur |
 | Statut (actif, recyclé, en maintenance) |
 | Commentaire libre |
